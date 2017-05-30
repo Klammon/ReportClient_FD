@@ -23,8 +23,7 @@ import java.text.*;
 import java.util.*;
 
 import javax.net.ssl.HttpsURLConnection;
-//Bonjour de mon mac
-//commit de save
+//Bonjour de mon mac + edition before commit
 //import org.omg.CORBA.NameValuePair;
 //import org.omg.CORBA.PUBLIC_MEMBER;
 import java.io.DataOutputStream;
