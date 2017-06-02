@@ -23,7 +23,7 @@ import java.text.*;
 import java.util.*;
 
 import javax.net.ssl.HttpsURLConnection;
-/**test**/
+/**c'est plus un test mtn c'est un projet top secret**/
 //import org.omg.CORBA.NameValuePair;
 //import org.omg.CORBA.PUBLIC_MEMBER;
 import java.io.DataOutputStream;
