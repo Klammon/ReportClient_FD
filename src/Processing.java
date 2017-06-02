@@ -24,6 +24,8 @@ import java.util.*;
 
 import javax.net.ssl.HttpsURLConnection;
 /**c'est plus un test mtn c'est un projet top secret**/
+//** ceci est en fait le vrai projet secret **//
+
 //import org.omg.CORBA.NameValuePair;
 //import org.omg.CORBA.PUBLIC_MEMBER;
 import java.io.DataOutputStream;
